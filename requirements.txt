@@ -1,1 +1,5 @@
-m
+numpy 
+pandas 
+scipy.stats 
+matplotlib.pyplot 
+seaborn 
